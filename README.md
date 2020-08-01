@@ -22,6 +22,7 @@
 <img src="https://img.icons8.com/color/24/000000/javascript.png"/>
 <img src="https://img.icons8.com/color/24/000000/nodejs.png"/>
 <img src="https://img.icons8.com/color/24/000000/react-native.png"/>
+<img width='21px' src='https://seeklogo.com/images/M/mocha-logo-66DA231220-seeklogo.com.png'>
 <img src="https://img.icons8.com/color/24/000000/java-coffee-cup-logo.png"/>
 <img src="https://img.icons8.com/ios/24/000000/postgreesql.png"/>
 <img src="https://img.icons8.com/ios-filled/24/000000/mysql-logo.png"/>
@@ -30,4 +31,5 @@
 <img src="https://img.icons8.com/color/24/000000/gitlab.png"/>
 <img width='23px' src="https://img.icons8.com/material-outlined/48/000000/github.png"/>
 <img width='21px' src='https://seeklogo.com/images/S/symfony-logo-AA34C8FC16-seeklogo.com.png'>
+ 
 </p>
