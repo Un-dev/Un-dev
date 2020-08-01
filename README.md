@@ -1,22 +1,22 @@
-### Hello there ! I'm François, a.k.a. SgtTabouret 👋 
+## Hello there ! I'm François, a.k.a. SgtTabouret 👋 
 
 <img src="https://media.giphy.com/media/Nx0rz3jtxtEre/giphy.gif" width="70%" height="28%" />
 
 ___
 
-#### I :
+### I :
 * 🎓 am currently a student 
 
 * 🥪 am looking for a company for the sandwich course which I've been accepted to 
 
 * 😍 *somewhat* enjoy Javascript 
 ___
-#### Contact me :
+### Contact me :
 
 <img width='18px' src='https://simpleicons.org/icons/discord.svg'> SgtTabouret#8924 
 [<img width='18px' src='https://simpleicons.org/icons/twitter.svg'>](https://twitter.com/SgtTabouret) @SgtTabouret 
 ___
-#### Languages and Tools I use :
+### Languages and Tools I use :
 
 <p>
 <img src="https://img.icons8.com/color/22/000000/visual-studio-code-2019.png"/>
