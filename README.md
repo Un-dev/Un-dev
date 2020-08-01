@@ -1,6 +1,6 @@
 # Hello there ! I'm François, a.k.a. SgtTabouret 👋 
 
-<img src="https://media.giphy.com/media/Nx0rz3jtxtEre/giphy.gif" width="65%" height="27%" />
+<img src="https://media.giphy.com/media/Nx0rz3jtxtEre/giphy.gif" width="60%" height="24%" />
 
 
 ## I :
