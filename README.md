@@ -2,7 +2,6 @@
 
 <img src="https://media.giphy.com/media/Nx0rz3jtxtEre/giphy.gif" width="65%" height="27%" />
 
-___
 
 ## I :
 * 🎓 am currently a student 
@@ -10,12 +9,12 @@ ___
 * 🥪 am looking for a company for the sandwich course which I've been accepted to 
 
 * 😍 *somewhat* enjoy Javascript 
-___
+
 ## Contact me :
 
 <img width='18px' src='https://simpleicons.org/icons/discord.svg'> SgtTabouret#8924 
 [<img width='18px' src='https://simpleicons.org/icons/twitter.svg'>](https://twitter.com/SgtTabouret) @SgtTabouret 
-___
+
 ## Languages and Tools I use :
 
 <p>
