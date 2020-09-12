@@ -13,7 +13,6 @@
 ## Contact me :
 
 <img width='18px' src='https://simpleicons.org/icons/discord.svg'> SgtTabouret#8924 
-[<img width='18px' src='https://simpleicons.org/icons/twitter.svg'>](https://twitter.com/SgtTabouret) @SgtTabouret 
 
 ## Languages and Tools I use :
 
