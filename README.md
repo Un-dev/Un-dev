@@ -6,7 +6,7 @@
 ## I :
 * 🎓 am currently a third year graduated student 
 
-* 💼 am looking for a company for the apprenticeship which I've been accepted to 
+* 😎 am working at KelindiCorp 
 
 * 😍 *somewhat* enjoy Javascript 
 
