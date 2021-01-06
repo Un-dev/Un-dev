@@ -6,7 +6,7 @@
 ## I :
 * 🎓 am currently a third year graduated student 
 
-* 😎 am working at KelindiCorp 
+* 😎 am working at [KelindiCorp](https://www.kelindi.com) 
 
 * 😍 *somewhat* enjoy Javascript 
 
