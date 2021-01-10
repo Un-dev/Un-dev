@@ -12,12 +12,12 @@
 
 ## Contact me :
 
-[<img width='18px' src='https://simpleicons.org/icons/microsoftoutlook.svg'> by mail] (f.lannoy@outlook.com) 
+<img width='18px' src='https://simpleicons.org/icons/microsoftoutlook.svg'> by mail : f.lannoy@outlook.com 
 
 ## Languages and Tools I use :
 
 <p>
-<img src="https://img.icons8.com/color/25/000000/visual-studio-code-2019.png"/>
+[<img src="https://img.icons8.com/color/25/000000/visual-studio-code-2019.png"/>] (https://code.visualstudio.com)
 <img src="https://img.icons8.com/color/25/000000/javascript.png"/>
 <img src="https://img.icons8.com/color/25/000000/nodejs.png"/>
 <img src="https://img.icons8.com/color/25/000000/react-native.png"/>
