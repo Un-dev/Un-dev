@@ -12,7 +12,7 @@
 
 ## Contact me :
 
-<img width='18px' src='https://simpleicons.org/icons/discord.svg'> SgtTabouret#8924 
+[<img width='18px' src='https://simpleicons.org/icons/microsoftoutlook.svg'> by mail] (f.lannoy@outlook.com) 
 
 ## Languages and Tools I use :
 
