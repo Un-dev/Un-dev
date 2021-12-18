@@ -8,7 +8,7 @@
 
 * 😎 am working at [KelindiCorp](https://www.kelindi.com) 
 
-* 😍 *somewhat* enjoy Javascript 
+* 😍 *somewhat* enjoy Ruby 
 
 ## Contact me :
 
