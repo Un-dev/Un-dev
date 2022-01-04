@@ -4,7 +4,7 @@
 
 
 ## I :
-* 🎓 am currently a third year graduated student 
+* 🎓 am currently a third year graduated student, studying for my master degree
 
 * 😎 am working at [KelindiCorp](https://www.kelindi.com) 
 
