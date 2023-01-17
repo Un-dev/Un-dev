@@ -2,13 +2,11 @@
 
 <img src="https://media.giphy.com/media/Nx0rz3jtxtEre/giphy.gif" width="60%" height="24%" />
 
-
 ## I :
-* 🎓 am currently a third year graduated student, studying for my master degree
 
 * 😎 am working at [KelindiCorp](https://www.kelindi.com) 
 
-* 😍 *somewhat* enjoy Ruby 
+* 😍 *somewhat* enjoy Ruby on Rails 
 
 ## Contact me :
 
