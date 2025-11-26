@@ -8,7 +8,7 @@
 
 * 😍 *somewhat* enjoy Ruby on Rails
 
-* 
+* 🇧🇷 love Brazil
 
 ## Contact me :
 
